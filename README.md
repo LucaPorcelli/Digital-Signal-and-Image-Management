@@ -1,4 +1,4 @@
-Digital Signal and Image Management
+# Digital Signal and Image Management #
 Here you will find all the materials used to create the project. Below is a brief overview of the available notebooks and folders:
 
 Notebooks:
